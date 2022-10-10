@@ -15,7 +15,6 @@ let audio_sample_rate;
 let oscillator;
 let gain;
 let scriptProcessor;
-
 let is_recording = false;
 
 const onAudioProcess = (e) => {
