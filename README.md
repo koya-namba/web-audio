@@ -13,3 +13,6 @@ Web Audio APIを使うことで音を生成できる
 
 ### Web Audio API
 [Web Audio API の使用](https://developer.mozilla.org/ja/docs/Web/API/Web_Audio_API/Using_Web_Audio_API)  
+
+## future feature
+- [ ] コード整理
